@@ -17,7 +17,7 @@ Certain features of FNTECH’s Products and Services depend on cookies. Please b
 
 Contact Us
 
-Email: [support@fntech.com](<>)
+Email: [support@fntech.com](support@fntech.com)
 
 Revisions to Our Cookie Policy
 

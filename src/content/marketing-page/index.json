@@ -43,9 +43,9 @@
       "display": false,
       "title": "Image"
     },
-    "text": {
+    "content": {
       "display": false,
-      "content": "The YOCO Summit was created to showcase our new FNvirtual event platform. YOCO—short for “Your Company”—was dreamed up by our creative team, allowing us to play with a faux brand in the full environment. YOCO has its own guidelines, voice, and visual identity. Pretty spiffy for a company that doesn’t exist, eh?\n\n[Check out our branding guidelines!](https://www.dropbox.com/s/w7qiav79lnnl93r/__FNvirtual-YOCO-site-guidelines.pdf?dl=0)\n\nBy the way, did you notice the “sponsor” and brand partner ads peppered throughout the site? Some are real companies that we know and love; others are faux brands we created so as to not step on another company’s branded toes. We think it works pretty well. How about you? Email us at [info@fntech.com](mailto:info@fntech.com)!"
+      "body": "The YOCO Summit was created to showcase our new FNvirtual event platform. YOCO—short for “Your Company”—was dreamed up by our creative team, allowing us to play with a faux brand in the full environment. YOCO has its own guidelines, voice, and visual identity. Pretty spiffy for a company that doesn’t exist, eh?\n\n[Check out our branding guidelines!](https://www.dropbox.com/s/w7qiav79lnnl93r/__FNvirtual-YOCO-site-guidelines.pdf?dl=0)\n\nBy the way, did you notice the “sponsor” and brand partner ads peppered throughout the site? Some are real companies that we know and love; others are faux brands we created so as to not step on another company’s branded toes. We think it works pretty well. How about you? Email us at [info@fntech.com](mailto:info@fntech.com)!"
     }
   },
   "masonry": {

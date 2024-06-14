@@ -1,1 +1,47 @@
-{"widgets":{"chat":{"enabled":true,"showQA":false,"showHelp":false,"defaultScope":"page"},"schedule":{"allowClick":true}},"identityProviderButtons":[{"buttonColor":"#082238","providerLabel":"Continue with FNid","providerLogo":"logo_fn.svg","providerLogoSize":27},{"buttonColor":"#0A66C2","providerLabel":"Sign in with LinkedIn","providerParam":"linkedin","providerLogo":"logo_linkedin.svg","providerLogoSize":18},{"buttonColor":"#000000","providerLabel":"Sign in with Apple","providerParam":"apple","providerLogoSize":17,"providerLogo":"logo_apple.svg"},{"buttonColor":"#1877F2","providerLabel":"Login with Facebook","providerParam":"facebook","providerLogo":"logo_facebook.svg","providerLogoSize":20}],"staticJsonFilesBuildTime":[{"file":"src/data/summit.json","build_time":1709766469125},{"file":"src/data/events.json","build_time":1709766471276},{"file":"src/data/events.idx.json","build_time":1709766471278},{"file":"src/data/speakers.json","build_time":1709766472403},{"file":"src/data/speakers.idx.json","build_time":1709766472403},{"file":"src/content/sponsors.json","build_time":1709766474440},{"file":"src/data/voteable-presentations.json","build_time":1709766474818}],"lastBuild":1709766474818}
+{
+  "identityProviderButtons": [
+    {
+      "buttonColor": "#082238",
+      "providerLabel": "Continue with FNid",
+      "providerLogo": "logo_fn.svg",
+      "providerLogoSize": 27
+    },
+    {
+      "buttonColor": "#0A66C2",
+      "providerLabel": "Sign in with LinkedIn",
+      "providerParam": "linkedin",
+      "providerLogo": "logo_linkedin.svg",
+      "providerLogoSize": 18
+    },
+    {
+      "buttonColor": "#000000",
+      "providerLabel": "Sign in with Apple",
+      "providerParam": "apple",
+      "providerLogoSize": 17,
+      "providerLogo": "logo_apple.svg"
+    },
+    {
+      "buttonColor": "#1877F2",
+      "providerLabel": "Login with Facebook",
+      "providerParam": "facebook",
+      "providerLogo": "logo_facebook.svg",
+      "providerLogoSize": 20
+    }
+  ],
+  "widgets": {
+    "chat": {
+      "enabled": true,
+      "showQA": false,
+      "showHelp": false,
+      "defaultScope": "page"
+    },
+    "schedule": {
+      "allowClick": true
+    }
+  },
+  "maintenanceMode": {
+    "enabled": false,
+    "title": "Site under maintenance",
+    "subtitle": "Please reload page shortly"
+  }
+}

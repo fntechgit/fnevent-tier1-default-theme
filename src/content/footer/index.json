@@ -59,17 +59,17 @@
     "display": true,
     "networks": [
       {
-        "icon": "fa-facebook",
-        "link": "/footer-content/",
-        "display": true
-      },
-      {
-        "icon": "fa-twitter",
+        "icon": "fa-x-twitter",
         "link": "/footer-content/",
         "display": true
       },
       {
         "icon": "fa-linkedin",
+        "link": "/footer-content/",
+        "display": true
+      },
+      {
+        "icon": "fa-facebook",
         "link": "/footer-content/",
         "display": true
       }
