@@ -2615,10 +2615,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.120":
-  version "2.0.120"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.120.tgz#4d948d93e79f3c5f8ba3a7483cff7a5213c4fc13"
-  integrity sha512-JtA+MFH7R1OoPqgucu/yJ/Aigd8kZ19AlqFflRSheIViAi3oXZCoF2n2+wBPxOiQt6C6RWaYDwUkuiwZDhAeCw==
+"@openeventkit/event-site@2.0.121":
+  version "2.0.121"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.121.tgz#c5c437408d2974ae515dbc4d952a87682fe8f598"
+  integrity sha512-Bb36I1clLcEPnYDRGlX58PDscmrEYY8TyO762SbeEWi+K7TXbol96HCblmXLSYPNIttPAsqWzq/Vf0t1h/zwnw==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
@@ -2744,7 +2744,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.36"
+    summit-registration-lite "5.0.37"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
     upcoming-events-widget "3.0.5"
@@ -18164,10 +18164,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.36:
-  version "5.0.36"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.36.tgz#17c8a0b301704748b90973241065cff09de3d9fd"
-  integrity sha512-PssaZTD54H3sIRD/gvUfTfU9r2A9oMh3Oq30FS51Q7CvNfxVQMExb/49BEfhpRDqVPSdr91KTEkABAu5efu3Jw==
+summit-registration-lite@5.0.37:
+  version "5.0.37"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.37.tgz#6252861a9e04c451baea1b78cf37b9e019f3f894"
+  integrity sha512-ZCOf8endxOCIEuGxIU0hx07azvg6w1Op+G+1mavQUeONeRd4pUb/ehHcePtSDd6tgAzpVwenfD0XGfO6nlSAGw==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
