@@ -2690,10 +2690,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.127":
-  version "2.0.127"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.127.tgz#47684e51a8c4d82ce1f6cb37ad3188b68a6830f6"
-  integrity sha512-IHgL3SY+P2UVPHosQneZZgfkh/Nr5JfKUHELDrzc70GoplsK7Q0QRChuD9T2+lbjMPhFzNql0/tv5a/lf/ewYA==
+"@openeventkit/event-site@2.0.128":
+  version "2.0.128"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.128.tgz#befd65a70961f1cf77f9e3d056957db6adfb3c3e"
+  integrity sha512-CZp/CfXYLpaU5Ed7dr9aOgDWdoCne/RPFh3e7f60VRTCoHZsoO/SP+pQN0OYaPPNmrcIl5SzxdVOUorVLUyqVA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
