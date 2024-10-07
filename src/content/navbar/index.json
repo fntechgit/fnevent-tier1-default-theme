@@ -4,7 +4,7 @@
       "title": "Lobby",
       "link": "/a/",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
@@ -13,7 +13,7 @@
       "title": "Schedule",
       "link": "/a/schedule",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -22,7 +22,7 @@
       "title": "My Schedule",
       "link": "/a/my-schedule",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
@@ -31,7 +31,7 @@
       "title": "Sponsors ",
       "link": "/a/sponsors/",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
@@ -40,7 +40,7 @@
       "title": "About the event",
       "link": "/about-event",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -49,7 +49,7 @@
       "title": "Who we are",
       "link": "/who-we-are",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -58,7 +58,7 @@
       "title": "Past events",
       "link": "/past-events",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -67,7 +67,7 @@
       "title": "Contact",
       "link": "/contact",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -76,7 +76,7 @@
       "title": "Help",
       "link": "/help",
       "display": true,
-      "requiresAuth": false,
+      "userRequirement": "NONE",
       "pageRestriction": [
         "ANY"
       ]
@@ -85,7 +85,7 @@
       "title": "My Orders/Tickets",
       "link": "/a/my-tickets",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
@@ -94,7 +94,7 @@
       "title": "My Profile",
       "link": "/a/profile",
       "display": true,
-      "requiresAuth": true,
+      "userRequirement": "LOGGED_IN",
       "pageRestriction": [
         "ANY"
       ]
