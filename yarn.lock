@@ -2538,10 +2538,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.134":
-  version "2.0.134"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.134.tgz#36d9ac04e8b7277d63350f91637890ced2b0b40a"
-  integrity sha512-B3k9gaXnQweKmo+1ngVdRksH/w3l6+BgAeSbEPNjX6fVqE+mlkxm72RgmvIiuI2/UMxSZdRnysDydB2iZX9yoA==
+"@openeventkit/event-site@2.0.139":
+  version "2.0.139"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.139.tgz#9f5002aa34cc5748866e90a54b97abdce2d519a5"
+  integrity sha512-UM8PlO8lndQXoz5/ZVjG5kew1KxY5AXtcxBwAmMgQoNudN39mpcQyxgV6S9nf3E/bfZBRcHLSHsQRTqpKC9jjw==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
@@ -2569,7 +2569,7 @@
     "@vimeo/player" "^2.16.3"
     ably "^1.2.34"
     assert "^2.1.0"
-    attendee-to-attendee-widget "3.1.1-beta.34"
+    attendee-to-attendee-widget "3.2.0"
     autoprefixer "10.4.14"
     awesome-bootstrap-checkbox "^1.0.1"
     axios "^0.19.2"
@@ -2617,7 +2617,7 @@
     jsdom "^24.1.0"
     klaro "^0.7.21"
     lite-schedule-widget "3.0.3"
-    live-event-widget "4.0.2"
+    live-event-widget "4.0.3"
     lodash "^4.17.19"
     lz-string "^1.4.4"
     markdown-it "^12.0.0"
@@ -2650,6 +2650,7 @@
     react-star-ratings "^2.3.0"
     react-stars "^2.2.5"
     react-tabs "^3.0.0"
+    react-textfit "^1.1.1"
     react-tooltip "^3.11.6"
     react-transition-group "^4.4.2"
     react-useportal "^1.0.16"
@@ -2669,10 +2670,10 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.37"
+    summit-registration-lite "5.0.39"
     superagent "8.0.9"
     sweetalert2 "^9.17.0"
-    upcoming-events-widget "3.0.5"
+    upcoming-events-widget "3.0.6"
     urijs "^1.19.2"
     use-fit-text "^2.4.0"
     uuid "^7.0.0"
@@ -4967,10 +4968,10 @@ atob@^2.1.2:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
-attendee-to-attendee-widget@3.1.1-beta.34:
-  version "3.1.1-beta.34"
-  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.1.1-beta.34.tgz#1fbdd83f0446f8a57da595243a8e559747f57483"
-  integrity sha512-iBmaAhrrGoTSVPblSPwIuXOQ8dy/g4bRM6E6LPru2EUmfm/Kbdo1bxyHSQoeaFgnpp9HXsyskwfNmUhdiqL14Q==
+attendee-to-attendee-widget@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/attendee-to-attendee-widget/-/attendee-to-attendee-widget-3.2.0.tgz#5718f1012c17099ac7740cc5e9798684c100b149"
+  integrity sha512-qoOHhCBW4GzdMqbS2qPFr/aHlRBH/f+GwmXnd2vvMxyhtbYEYSKkINtmP/bqreELdtbBhiOqOkBNqBXK5dRDnA==
   dependencies:
     "@supabase/supabase-js" "2.45.1"
     formik "^2.2.6"
@@ -11598,11 +11599,12 @@ lite-schedule-widget@3.0.3:
     pure-react-carousel "^1.27.4"
     use-fit-text "^2.4.0"
 
-live-event-widget@4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-4.0.2.tgz#5fdd6006f893b9a7d36ceac5db40540a836b110d"
-  integrity sha512-RwHesiSRze9ehYg60G1hE7J3O0APngf/4h1foEZ98ZazCbT1khl06k6iGjlBWW5T0v8mGnFwmfVeYzAIq4dQtA==
+live-event-widget@4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/live-event-widget/-/live-event-widget-4.0.3.tgz#4b220b57aedace5a44102b3dcea21e952406a2c0"
+  integrity sha512-giG8RJl22PhChhPVFE9ZNvANyvisYuhP8MjHj/Pyb3hoGqXJjbQj8UU8EXhOYG8fmbGrVj3MBmeS/hquLLc1sQ==
   dependencies:
+    react-textfit "^1.1.1"
     svg-url-loader "^7.1.1"
 
 lmdb@2.5.2:
@@ -15853,6 +15855,14 @@ react-textarea-autosize@^8.0.0, react-textarea-autosize@^8.2.0, react-textarea-a
     use-composed-ref "^1.3.0"
     use-latest "^1.2.1"
 
+react-textfit@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-textfit/-/react-textfit-1.1.1.tgz#cce3d974c69b8b4222cfae78200abc366f74d050"
+  integrity sha512-UDSQRo5yBEGueLTE5SgNV9fSmr5CWJkE0E0R0YbcbCO69iuJGfcT6wspKhX2sIwdsDyT9qXOwMC80cnRolir7Q==
+  dependencies:
+    process "^0.11.10"
+    prop-types "^15.7.2"
+
 react-toastify@^9.1.1:
   version "9.1.3"
   resolved "https://registry.yarnpkg.com/react-toastify/-/react-toastify-9.1.3.tgz#1e798d260d606f50e0fab5ee31daaae1d628c5ff"
@@ -18010,10 +18020,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.37:
-  version "5.0.37"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.37.tgz#6252861a9e04c451baea1b78cf37b9e019f3f894"
-  integrity sha512-ZCOf8endxOCIEuGxIU0hx07azvg6w1Op+G+1mavQUeONeRd4pUb/ehHcePtSDd6tgAzpVwenfD0XGfO6nlSAGw==
+summit-registration-lite@5.0.39:
+  version "5.0.39"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.39.tgz#5d43293a844cf1686236fbb2a65e324c77657fed"
+  integrity sha512-MGspBC494dH18qP6CCf9+rXPWLzZeVz07EhK/EK2qbjblb0nBiR9e1SqeuMsLkEeq7n/Gec/3cMJ2/X9chEjLg==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
@@ -19014,12 +19024,13 @@ unpipe@1.0.0, unpipe@~1.0.0:
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
   integrity sha512-pjy2bYhSsufwWlKwPc+l3cN7+wuJlK6uz0YdJEOlQDbl6jo/YlPi4mb8agUkVC8BF7V8NuzeyPNqRksA3hztKQ==
 
-upcoming-events-widget@3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-3.0.5.tgz#807cff26fbe92f049c3b7d45fe344414e659683f"
-  integrity sha512-KPBe0nlIiMQ3YqcNQss11BYZMhJY/tPwhV8XrFOhkgM/DxbAWai+wjFs2qu4QuDDtLBTanuZMLaPcrsj+efn7g==
+upcoming-events-widget@3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/upcoming-events-widget/-/upcoming-events-widget-3.0.6.tgz#06a1aa34b57264d7f58d1e390dab41475d1c6a96"
+  integrity sha512-z2uEOjfInO0qVAHTXH2XMNQ5UqE7wPSc8wrnZBN022S4rcJk3eQT0QSURS98B1v/2jiYKCGqVLnwXRUJUKiJ0w==
   dependencies:
     pure-react-carousel "^1.30.1"
+    react-textfit "^1.1.1"
 
 update-browserslist-db@^1.0.10:
   version "1.0.11"
