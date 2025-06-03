@@ -2757,10 +2757,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.2.tgz#7025b2e8eefa757f3bd194a8922f7c8c889880bb"
-  integrity sha512-Grd79lEO4fZkIYzBxAtPThvFr+cYyy1HXWDgbm/uVBvckgyh+RvkY6UcCIME0BI1HYAUP2qYlAjqGgN+owWSHw==
+"@openeventkit/event-site@2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.3.tgz#45784dc0abfb0cad9ee609177b21c5224d2be83c"
+  integrity sha512-uzgHkTJgzurEGYsNVhOObAUKRuf4YIwZCtV1vlXWq5yZc4Qn1dkDkfdxhjG3SRiF6j1GxvJEtxeP93GNpgyMYg==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2892,7 +2892,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "5.0.46"
+    summit-registration-lite "6.0.0"
     superagent "8.0.9"
     sweetalert2 "^11.11.1"
     upcoming-events-widget "3.0.7"
@@ -3929,17 +3929,17 @@
   resolved "https://registry.yarnpkg.com/@standard-schema/utils/-/utils-0.3.0.tgz#3d5e608f16c2390c10528e98e59aef6bf73cae7b"
   integrity sha512-e7Mew686owMaPJVNNLs55PUvgz371nKgwsc4vxE49zsODpJEnxgxRo2y/OKrqueavXgZNMDVj3DdHFlaSAeU8g==
 
-"@stripe/react-stripe-js@^1.4.1":
-  version "1.16.5"
-  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-1.16.5.tgz#51cf862b50ca91ae6193c77a5bec889e81047f10"
-  integrity sha512-lVPW3IfwdacyS22pP+nBB6/GNFRRhT/4jfgAK6T2guQmtzPwJV1DogiGGaBNhiKtSY18+yS8KlHSu+PvZNclvQ==
+"@stripe/react-stripe-js@^3.6.0":
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-3.7.0.tgz#ebebf87718875be08c68b3412cab785d0e9064d6"
+  integrity sha512-PYls/2S9l0FF+2n0wHaEJsEU8x7CmBagiH7zYOsxbBlLIHEsqUIQ4MlIAbV9Zg6xwT8jlYdlRIyBTHmO3yM7kQ==
   dependencies:
     prop-types "^15.7.2"
 
-"@stripe/stripe-js@^1.15.0":
-  version "1.52.1"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.52.1.tgz#d821bcd627a34227c20fe87d7c8f8bd4386eaf2e"
-  integrity sha512-fza40OPSpGQlFxc5TZWiYC/6Lk89Sep1fLuv9ss33YS6lCAF8UZbfA1E6W+lwO4c7WRKZIZumHIEbPJfP/O9uw==
+"@stripe/stripe-js@^7.0.0":
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-7.3.1.tgz#f57af650477205a939e21a6c7e45a764d17d3d7c"
+  integrity sha512-pTzb864TQWDRQBPLgSPFRoyjSDUqpCkbEgTzpsjiTjGz1Z5SxZNXJek28w1s6Dyry4CyW4/Izj5jHE/J9hCJYQ==
 
 "@supabase/auth-js@2.64.4":
   version "2.64.4"
@@ -18476,10 +18476,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@5.0.46:
-  version "5.0.46"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-5.0.46.tgz#c53588882f410731894e0f4481bac59a76a00aa7"
-  integrity sha512-Twai5O2uophRaK1m1TR8XsUmQkE7g28Qn5ZXaDyTRILIXbb+gdsmUgHzXiiYNB6C8ZqS6UwRn07BffQK06+FYw==
+summit-registration-lite@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-6.0.0.tgz#b14ca7930ab25c6f861388ffa8cf31a3fa9aa854"
+  integrity sha512-o8N2qcqyW8fziCsiZHlb5/ngsO2wlHAGWnmrgihxnHx8lNO5FkTvxAT/hXkUFVtZA+itxEasCUAgF6taJ3tDIw==
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
@@ -18487,8 +18487,8 @@ summit-registration-lite@5.0.46:
     "@mui/material" "^5.14.18"
     "@react-pdf/renderer" "^3.1.12"
     "@sentry/react" "^8.35.0"
-    "@stripe/react-stripe-js" "^1.4.1"
-    "@stripe/stripe-js" "^1.15.0"
+    "@stripe/react-stripe-js" "^3.6.0"
+    "@stripe/stripe-js" "^7.0.0"
     i18n-react "^0.6.4"
     react-helmet "^6.1.0"
     react-hook-form "^7.6.7"
