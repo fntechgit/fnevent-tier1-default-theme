@@ -2640,7 +2640,7 @@
     prop-types "^15.8.1"
     react-is "^19.1.0"
 
-"@mui/utils@^5.17.1":
+"@mui/utils@^5.16.8", "@mui/utils@^5.17.1":
   version "5.17.1"
   resolved "https://registry.yarnpkg.com/@mui/utils/-/utils-5.17.1.tgz#72ba4ffa79f7bdf69d67458139390f18484b6e6b"
   integrity sha512-jEZ8FTqInt2WzxDV8bhImWBqeQRD99c/id/fq83H0ER9tFl+sfZlaAoCdznGvbSQQ9ividMxqSV2c7cC1vBcQg==
@@ -2757,10 +2757,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.9":
-  version "2.1.9"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.9.tgz#2434f97ce1d2bf84745417eac9a80b3c37564d91"
-  integrity sha512-NyQ19trU6Rz01mk1gbZ2TUWZo0eclxCWrwbzvax9DwSvp28dLfeX5IMprTKcMnjDVChyFm0eHfe8ih6oGfIoHg==
+"@openeventkit/event-site@2.1.11":
+  version "2.1.11"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.11.tgz#11968fbf55816051d1d6fb822060e2cdb96705c9"
+  integrity sha512-3mCGIC8Mz8i9F9l2n4xuA5/BfX33cAnxKeCBiCTfJCfgLPKcnTjJ4Mj2GxkTpBWO1MbMEuhfrU06mNXXyQcejw==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2772,6 +2772,7 @@
     "@mui/base" "^5.0.0-beta.40"
     "@mui/icons-material" "^5.15.20"
     "@mui/material" "^5.15.20"
+    "@mui/utils" "^5.16.8"
     "@mux/mux-player-react" "^1.14.1"
     "@ncwidgets/file-relation" "^0.8.0"
     "@ncwidgets/id" "^0.8.1"
@@ -2844,7 +2845,7 @@
     markdown-it "^12.0.0"
     moment "^2.27.0"
     moment-timezone "^0.5.31"
-    my-orders-tickets-widget "1.0.0-beta.51"
+    my-orders-tickets-widget "1.0.0-beta.56"
     object.assign "^4.1.5"
     openstack-uicore-foundation "4.2.8"
     path-browserify "^1.0.1"
@@ -13838,15 +13839,16 @@ mux.js@6.0.1:
     "@babel/runtime" "^7.11.2"
     global "^4.4.0"
 
-my-orders-tickets-widget@1.0.0-beta.51:
-  version "1.0.0-beta.51"
-  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.0-beta.51.tgz#ba3e9a1ef09c42663fb61118447f58f14af540e7"
-  integrity sha512-mTgVR9QePlA9zreTR7b/yn2eaYtnxYpn0x18JacZR0Oy6jXhXbsKPzhvb1eEb7wI7cA+0S50Jj0BgPasaacANg==
+my-orders-tickets-widget@1.0.0-beta.56:
+  version "1.0.0-beta.56"
+  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.0-beta.56.tgz#fc043c503270f7ddd70d0bc6705bb9d04c4be83b"
+  integrity sha512-EezUX1xArcv9zYH9v5qAAvcjI5hPVtpoP1hgJ0VscBVZwKZoSiOMdrxmV38h5UBjZG4vv7rzkQgfJjZha212aA==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
     "@mui/icons-material" "^5.15.20"
     "@mui/material" "^5.15.20"
+    "@mui/utils" "^5.16.8"
     "@mui/x-date-pickers" "^7.12.0"
     "@reduxjs/toolkit" "^2.2.5"
     "@sentry/react" "^8.37.1"
