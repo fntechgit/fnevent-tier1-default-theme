@@ -2757,10 +2757,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.12":
-  version "2.1.12"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.12.tgz#931e9f60b88f824f3d40f3fe18a7988e18357374"
-  integrity sha512-TUoZ0xd9OI5AZhBjf5gS++q6wAhdo0ASs6PZDYriyr2sNPnwj9lxIYcunhxwQ46CTObxS8/RbGdUgP26HWMU6Q==
+"@openeventkit/event-site@2.1.13":
+  version "2.1.13"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.13.tgz#e9eadb91214e20bd095652efb1e4e4789a12df36"
+  integrity sha512-1XolUtoUuAdrXOInUvsPVGugqUfNp8+1qXRtccP1zU8yhesqI39wA5JN36EgQEJ6rztiq4cmPONy6xhyJ6JSkw==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2801,7 +2801,7 @@
     bulma "^0.9.0"
     chain-function "^1.0.1"
     classnames "^2.3.1"
-    core-js "^2.6.11"
+    core-js "^3.44.0"
     cross-env "^7.0.3"
     crypto-js "^4.1.1"
     decap-cms-app "^3.1.10"
@@ -2814,7 +2814,7 @@
     font-awesome "^4.7.0"
     formik "^2.4.6"
     fs-extra "^11.3.0"
-    full-schedule-widget "3.0.10"
+    full-schedule-widget "3.0.11"
     gatsby "^5.13.5"
     gatsby-alias-imports "^1.0.6"
     gatsby-plugin-decap-cms "^4.0.4"
@@ -2846,11 +2846,7 @@
     markdown-it "^12.0.0"
     moment "^2.27.0"
     moment-timezone "^0.5.31"
-<<<<<<< HEAD
-    my-orders-tickets-widget "1.0.0-beta.56"
-=======
     my-orders-tickets-widget "1.0.0-beta.59"
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
     object.assign "^4.1.5"
     openstack-uicore-foundation "4.2.8"
     path-browserify "^1.0.1"
@@ -2898,11 +2894,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-<<<<<<< HEAD
-    summit-registration-lite "6.0.2"
-=======
     summit-registration-lite "6.0.3"
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
     superagent "8.0.9"
     sweetalert2 "^11.11.1"
     upcoming-events-widget "3.0.7"
@@ -3940,28 +3932,16 @@
   integrity sha512-e7Mew686owMaPJVNNLs55PUvgz371nKgwsc4vxE49zsODpJEnxgxRo2y/OKrqueavXgZNMDVj3DdHFlaSAeU8g==
 
 "@stripe/react-stripe-js@^3.6.0":
-<<<<<<< HEAD
-  version "3.7.0"
-  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-3.7.0.tgz#ebebf87718875be08c68b3412cab785d0e9064d6"
-  integrity sha512-PYls/2S9l0FF+2n0wHaEJsEU8x7CmBagiH7zYOsxbBlLIHEsqUIQ4MlIAbV9Zg6xwT8jlYdlRIyBTHmO3yM7kQ==
-=======
   version "3.8.1"
   resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-3.8.1.tgz#dcbf147d3756ffa012c176d14a11c3d3719f42eb"
   integrity sha512-BExESIwXDwZgUqFmWj046BGpsqK4vNaBCdcmRvagQzOovjO2aBAt8rofW47K1TJRnt3iTH5dciBdHJ7ZA958ng==
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
   dependencies:
     prop-types "^15.7.2"
 
 "@stripe/stripe-js@^7.0.0":
-<<<<<<< HEAD
-  version "7.3.1"
-  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-7.3.1.tgz#f57af650477205a939e21a6c7e45a764d17d3d7c"
-  integrity sha512-pTzb864TQWDRQBPLgSPFRoyjSDUqpCkbEgTzpsjiTjGz1Z5SxZNXJek28w1s6Dyry4CyW4/Izj5jHE/J9hCJYQ==
-=======
   version "7.7.0"
   resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-7.7.0.tgz#3d12d51c3b9996a3979d2ba41b2cf9d648805226"
   integrity sha512-SXuhqhuR5FXaYgKTXzZJeqtVA6JKb9IZWaGeEUxHHiOcFy2p51wccO72bYpXwoK4D5pzQOIYLTuAc7etxyMmwg==
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
 
 "@supabase/auth-js@2.64.4":
   version "2.64.4"
@@ -6692,7 +6672,7 @@ core-js@^1.0.0:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-1.2.7.tgz#652294c14651db28fa93bd2d5ff2983a4f08c636"
   integrity sha512-ZiPp9pZlgxpWRu0M+YWbm6+aQ84XEfH1JRXvfOc/fILWI0VKhLC2LX13X1NYq4fULzLMq7Hfh43CSo2/aIaUPA==
 
-core-js@^2.4.0, core-js@^2.6.11, core-js@^2.6.12:
+core-js@^2.4.0, core-js@^2.6.12:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
   integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
@@ -6701,6 +6681,11 @@ core-js@^3.31.0:
   version "3.37.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.37.1.tgz#d21751ddb756518ac5a00e4d66499df981a62db9"
   integrity sha512-Xn6qmxrQZyB0FFY8E3bgRXei3lWDJHhvI+u0q9TKIYM49G8pAr0FgnnrFRAmsbptZL1yxRADVXn+x5AGsbBfyw==
+
+core-js@^3.44.0:
+  version "3.44.0"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.44.0.tgz#db4fd4fa07933c1d6898c8b112a1119a9336e959"
+  integrity sha512-aFCtd4l6GvAXwVEh3XbbVqJGHDJt0OZRa+5ePGx3LLwi12WfexqQxcsohb2wgsa/92xtl19Hd66G/L+TaAxDMw==
 
 core-js@^3.5.0, core-js@^3.6.4:
   version "3.30.1"
@@ -9299,10 +9284,10 @@ fsevents@~2.3.2:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.2.tgz#8a526f78b8fdf4623b709e0b975c52c24c02fd1a"
   integrity sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA==
 
-full-schedule-widget@3.0.10:
-  version "3.0.10"
-  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.10.tgz#46cb84a57a19b0ba4ee78d4ea7958964064fd41f"
-  integrity sha512-Yf915panmLQNA0xgOItkpyGje3wITIIIuQboKZRJCOtdrmwtmoqM77LEjv98QrSBgoD6MQCD5WFoK60jiGtOqA==
+full-schedule-widget@3.0.11:
+  version "3.0.11"
+  resolved "https://registry.yarnpkg.com/full-schedule-widget/-/full-schedule-widget-3.0.11.tgz#00497da50571a0834b27f0d321e37c7baea368a5"
+  integrity sha512-Evk2bslmPtBlA0BxI6m340q5CAG1qpSUJCBLIBBUY1v4tIH0ewcEn+CksnQwrVHZ6jowYGYTC0pno15GTDxkQg==
   dependencies:
     "@mui/base" "5.0.0-alpha.127"
     "@react-pdf/renderer" "^3.1.11"
@@ -13869,17 +13854,10 @@ mux.js@6.0.1:
     "@babel/runtime" "^7.11.2"
     global "^4.4.0"
 
-<<<<<<< HEAD
-my-orders-tickets-widget@1.0.0-beta.56:
-  version "1.0.0-beta.56"
-  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.0-beta.56.tgz#fc043c503270f7ddd70d0bc6705bb9d04c4be83b"
-  integrity sha512-EezUX1xArcv9zYH9v5qAAvcjI5hPVtpoP1hgJ0VscBVZwKZoSiOMdrxmV38h5UBjZG4vv7rzkQgfJjZha212aA==
-=======
 my-orders-tickets-widget@1.0.0-beta.59:
   version "1.0.0-beta.59"
   resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.0-beta.59.tgz#2fc732fcac064f590f2c3c61fe1b11a8fb7a68eb"
   integrity sha512-BaJcqdPJSxtAYTeijADZSL3QVj81EKtIsG24fKAfnVTQ3n82Uzu+IGi/VzEMmbFhbP+4faI5hD0/olQG6h0AHQ==
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
@@ -15591,15 +15569,9 @@ react-color@^2.18.1:
     tinycolor2 "^1.4.1"
 
 react-content-loader@^7.0.2:
-<<<<<<< HEAD
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/react-content-loader/-/react-content-loader-7.0.2.tgz#5d5e0f723cb937db88f9fec1c5b0651cd301c42e"
-  integrity sha512-773S98JTyC8VB2nu7LXUhpHx8tZMieGxMcx3qTe7IkohT6Br7d9AXnIXs/wQ6IhlUdKQcw6JLKk1QKigYCWDRA==
-=======
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/react-content-loader/-/react-content-loader-7.1.1.tgz#e9a9746b1fa54f0cab4c39a543fb944371c83441"
   integrity sha512-yNkqtd+15wXRLfDKZb5nTqDV2fPTG2kpUgeGRb+WBz43bU0j4DSGXETF0bnFr44fAoTPpm0Dya0WGdhpHSvtYA==
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
 
 react-datetime@^2.16.3:
   version "2.16.3"
@@ -18526,17 +18498,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-<<<<<<< HEAD
-summit-registration-lite@6.0.2:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-6.0.2.tgz#bf182d0ef107354ed34a4d1a7490567e5d41875e"
-  integrity sha512-PFH4guOeRIFOBepMGOpLKSTxFXVMbBYKFxB2LyFThazGLEa03sHzp6BdwTA1jaA4eW4V9bMkbgvQzJwUmgGMuQ==
-=======
 summit-registration-lite@6.0.3:
   version "6.0.3"
   resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-6.0.3.tgz#7d66988a05dd7a7240b3f33127029e852b4419c1"
   integrity sha512-5BHTOaaJMHIArgYEuql8/E344o6Amyj4NK7w7cJD9iX5E25yY7bEU6yf271X7KBMZ3Rl6D3mBLtsDBRgQiTXsw==
->>>>>>> b1767c4 (chore: update event-site to 2.1.12)
   dependencies:
     "@emotion/react" "^11.11.1"
     "@emotion/styled" "^11.11.0"
