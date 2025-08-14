@@ -4,7 +4,7 @@
 [context.branch-deploy]
   ignore = "bash ./netlify-build-ignore.sh"
 [build.environment]
-  NODE_VERSION = "18.15.0"
+  NODE_VERSION = "20.19.4"
   YARN_VERSION = "1.22.19"
   YARN_FLAGS = "--no-ignore-optional"
   NODE_OPTIONS = "--max-old-space-size=10240"

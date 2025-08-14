@@ -16,9 +16,7 @@
     "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
   },
   "dependencies": {
-    "@babel/core": "^7.28.0",
-    "@openeventkit/event-site": "2.1.17",
-    "core-js": "^3.45.0",
+    "@openeventkit/event-site": "2.1.18",
     "gatsby": "^5.13.5"
   },
   "devDependencies": {
