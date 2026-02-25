@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@openeventkit/event-site": "2.1.48",
-    "gatsby": "^5.13.5"
+    "gatsby": "~5.16.1"
   },
   "devDependencies": {
     "babel-preset-gatsby": "^3.14.0"
