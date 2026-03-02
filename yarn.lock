@@ -2535,10 +2535,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.48":
-  version "2.1.48"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.48.tgz#469edf775b364d16467fa6cf76154ea05f75defc"
-  integrity sha512-aiBD2FUq0guHbMSPYRZFM/988l4bLrVic+LWjsCJyWRACvfCOdZ7LoNcQ9I3mV2PxJViHdYwLSzlv1VgfEki1Q==
+"@openeventkit/event-site@2.1.49":
+  version "2.1.49"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.49.tgz#5c9eeaf09a15dc9f0aac7345a3ed8d285a2c676c"
+  integrity sha512-y4XqTZE8n7PImLSi//6At688PM6tozGpgrMYnhnMEYbMAdlbEk7yNG5cGhBD4ZXbRzL47sZZAAGSwR+vBDUDyg==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2671,7 +2671,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "6.0.7"
+    summit-registration-lite "6.0.8"
     superagent "8.0.9"
     sweetalert2 "^11.11.1"
     upcoming-events-widget "3.0.7"
@@ -20282,10 +20282,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@6.0.7:
-  version "6.0.7"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-6.0.7.tgz#ef75d8b7523bfaa9ab4fb128662cbce8dd3d7aaf"
-  integrity sha512-LvweGG/MJgoPO+Js70F2EpGnpIEti+iod3XMpy/JbetsMqtLCrSULnpvWZ5oHHsivGEVE7o9sal+8ULKXkOD9g==
+summit-registration-lite@6.0.8:
+  version "6.0.8"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-6.0.8.tgz#0d90cf1b8d089a63dea9af0da58a48b052feeb09"
+  integrity sha512-a7ozKVTzHGTUesNI9hjkNATE6oPu5P3XqpSxDyq7eNzN82Z96uyc4gQazsGwobwLFlLP2tgSID7lyv/cvo7fXw==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
