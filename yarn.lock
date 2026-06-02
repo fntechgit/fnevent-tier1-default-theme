@@ -2535,10 +2535,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.1.55":
-  version "2.1.55"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.55.tgz#3dd1ff71e414288bb9354d9d1dbcf3b019b2a053"
-  integrity sha512-vmfH+vhaiMPgt9CN5UAsJ94M9dKOGY3vn/1ypOJP/Bhl+vtfqYI+QbQq4j2k91iSXhK+nXH6PVWxPaIETMY5VQ==
+"@openeventkit/event-site@2.1.56":
+  version "2.1.56"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.1.56.tgz#9f474fd42af20f00b112bf9f15d4a994c205ef2a"
+  integrity sha512-oSKPl3junO6JVPIIdQaPpetA81TU7gYWVdMEYnMJnPIps1iSjtL9WyBIXWVS7VX6Bs6BVA5fa7q63QpJfrIGIQ==
   dependencies:
     "@emotion/server" "^11.11.0"
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
@@ -2623,7 +2623,7 @@
     markdown-it "^12.0.0"
     moment "^2.27.0"
     moment-timezone "^0.5.31"
-    my-orders-tickets-widget "1.0.10"
+    my-orders-tickets-widget "1.0.12"
     object.assign "^4.1.5"
     openstack-uicore-foundation "4.2.30"
     path-browserify "^1.0.1"
@@ -2672,7 +2672,7 @@
     stream-browserify "^3.0.0"
     stream-chat "^2.7.2"
     stream-chat-react "3.1.7"
-    summit-registration-lite "7.0.3"
+    summit-registration-lite "7.0.4"
     superagent "8.0.9"
     sweetalert2 "^11.11.1"
     upcoming-events-widget "3.0.7"
@@ -15323,10 +15323,10 @@ mux.js@6.0.1:
     "@babel/runtime" "^7.11.2"
     global "^4.4.0"
 
-my-orders-tickets-widget@1.0.10:
-  version "1.0.10"
-  resolved "https://registry.npmjs.org/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.10.tgz#c1a2025ce7ff67f8bf315b3639c16c96eb74e185"
-  integrity sha512-XJvycY5s9AXKmUSX9hCMMu0qAebXrjvqzWgO11MJC7J3ubRbOIjN91fbpF8uNUK4ByGFH4Blb7/G8ROvga1+rw==
+my-orders-tickets-widget@1.0.12:
+  version "1.0.12"
+  resolved "https://registry.yarnpkg.com/my-orders-tickets-widget/-/my-orders-tickets-widget-1.0.12.tgz#4558013c45d37f7efe559ad70b12d377c8530e6a"
+  integrity sha512-3aS6BzVZ0Uy8lj8VB3vRDeo4ZWCmPqYKwTKy5QbEBiUefWzNoZxiI81/n/IYsih+eRrBS2nF0tOVmufGmCHtBA==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
@@ -20288,10 +20288,10 @@ sudo-prompt@^8.2.0:
   resolved "https://registry.yarnpkg.com/sudo-prompt/-/sudo-prompt-8.2.5.tgz#cc5ef3769a134bb94b24a631cc09628d4d53603e"
   integrity sha512-rlBo3HU/1zAJUrkY6jNxDOC9eVYliG6nS4JA8u8KAshITd07tafMc/Br7xQwCSseXwJ2iCcHCE8SNWX3q8Z+kw==
 
-summit-registration-lite@7.0.3:
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-7.0.3.tgz#9d37c02abb306ef41aaf7c53c08bc2dc844fb976"
-  integrity sha512-1x1L8ZpeAKnIdT4DVeEbrvsiswH5XrlluG/Nh50zgWVhDhuwGgmc/1YejoWm0ZSH36qVKBCAP3OhF0BbLFy6Hw==
+summit-registration-lite@7.0.4:
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/summit-registration-lite/-/summit-registration-lite-7.0.4.tgz#f8b55393c081a6c0b8a7114b22c71f824b66f0cc"
+  integrity sha512-lizvSV4KvdOHpCWdCNfTxDJPzwLx7YQ/sjw/y+EbSq3RLLIErzkZbYXJtw5HbPikSIot062SPSUsSlTff5snwQ==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
