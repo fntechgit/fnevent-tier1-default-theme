@@ -1,0 +1,34 @@
+[
+  {
+    "id": "session-moved",
+    "order": 1,
+    "name": "Session moved",
+    "title": "🔄 Change to [Session]",
+    "message": "🔄 There has been a change to [Session]. It has moved to [Location] at [Time].",
+    "variables": ["Session", "Location", "Time"]
+  },
+  {
+    "id": "starting-soon",
+    "order": 2,
+    "name": "Starting soon",
+    "title": "[Session] starts soon",
+    "message": "[Session] starts in [Minutes] minutes in [Location].",
+    "variables": ["Session", "Minutes", "Location"]
+  },
+  {
+    "id": "at-capacity",
+    "order": 3,
+    "name": "Session at capacity",
+    "title": "[Session] is full",
+    "message": "[Session] has reached capacity. Overflow seating is available in [Location].",
+    "variables": ["Session", "Location"]
+  },
+  {
+    "id": "happy-hour",
+    "order": 4,
+    "name": "Happy hour",
+    "title": "Happy hour",
+    "message": "Join us for happy hour at [Location] at [Time].",
+    "variables": ["Location", "Time"]
+  }
+]
