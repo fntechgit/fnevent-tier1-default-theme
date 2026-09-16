@@ -22,11 +22,11 @@ For registration, badge collection, the schedule, or anything about the event on
 
 ### Account deletion
 
-You can ask us to delete your FNTech account and the personal information held with it: [request account deletion](mailto:support@fntech.com?subject=FNattendee%20account%20deletion%20request).
+You can ask us to delete your FNid and the personal information held with it: [request account deletion](mailto:support@fntech.com?subject=FNattendee%20account%20deletion%20request).
 
 Please send it from the address you sign in with, or tell us what that address is — it is how we find the right account. A person handles these, so it is not instant, and we will confirm once it is done.
 
-This removes your **FNTech account across the platform**, not only this app, including the events you are registered for. Your rights, and the other ways to make this request, are set out in our [Privacy Policies](https://www.fntech.com/fntechprivacypolicies/).
+This removes your **FNid across the platform**, not only this app, including the events you are registered for. Your rights, and the other ways to make this request, are set out in our [Privacy Policies](https://www.fntech.com/fntechprivacypolicies/).
 
 ### A few things worth trying first
 
